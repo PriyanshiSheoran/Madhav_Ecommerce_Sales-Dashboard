@@ -1,7 +1,7 @@
-📊 Madhav Ecommerce Sales Dashboard
+  📊 Madhav Ecommerce Sales Dashboard
 📌 **Project Objective**
-This project analyzes ecommerce sales data to understand sales performance, profit trends, and customer behavior using an interactive Power BI dashboard.
-🛠 **Tools Used**
+   This project analyzes ecommerce sales data to understand sales performance, profit trends, and customer behavior using an interactive Power BI dashboard.
+🛠  **Tools Used**
 *Power BI
 *Excel / CSV
 *Power Query
