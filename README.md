@@ -39,3 +39,5 @@ To transform raw ecommerce data into meaningful insights using interactive and v
 ---
 
 📌 *This project highlights skills in data analysis, data visualization, and business intelligence.*
+![Sales Dashboard]
+(Dashboard_Preview.png)
