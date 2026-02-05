@@ -1,27 +1,41 @@
-  📊 Madhav Ecommerce Sales Dashboard
-📌 **Project Objective**
-   This project analyzes ecommerce sales data to understand sales performance, profit trends, and customer behavior using an interactive Power BI dashboard.
-🛠  **Tools Used**
-*Power BI
-*Excel / CSV
-*Power Query
-DAX
-📂 **Dataset**
-*Includes Order Date, Customer, State, Category, Sub-Category, Sales, Profit, and Quantity.
-🧹 **Data Preparation**
-*Removed duplicates
-*Handled missing values
-*Corrected data types
-*Created calculated measures
-📈 **Key Insights**
-*Clothing category generates the highest sales
-*Festive months show peak performance
-*Some categories have high sales but low profit
-🎯 **Dashboard Features**
-*Interactive slicers (State, Category, Month)
-*Dynamic KPIs and charts
-*Clean and user-friendly layout
-🖼 **Preview**
-*Dashboard screenshots are available in the images folder.
-🚀 **Conclusion**
-*This project showcases my Power BI, data cleaning, and business analysis skills as a Data Analyst Fresher.# Madhav_Ecommerce_Sales-Dashboard
+# 📊 Madhav Ecommerce Sales Dashboard
+
+A professional **Power BI Ecommerce Sales Dashboard** developed to analyze sales performance, profitability, customer behavior, and payment trends.
+
+The dashboard enables stakeholders to track key metrics and gain actionable business insights.
+
+---
+
+## Key Metrics
+
+- Total Sales: 438K  
+- Total Profit: 37K  
+- Average Order Value (AOV): 121.01K  
+- Total Quantity Sold: 5615  
+
+---
+
+## Dashboard Analysis
+
+- Monthly profit trend analysis  
+- Category and sub-category performance  
+- State-wise sales distribution  
+- Top customers by sales value  
+- Payment mode contribution  
+
+---
+
+## Tools & Technologies
+
+- Power BI  
+- Microsoft Excel / CSV  
+
+---
+
+## Project Objective
+
+To transform raw ecommerce data into meaningful insights using interactive and visually clear dashboards.
+
+---
+
+📌 *This project highlights skills in data analysis, data visualization, and business intelligence.*
